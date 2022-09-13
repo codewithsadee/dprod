@@ -1,0 +1,170 @@
+dprod - Digital product design agency
+This is a agency html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = dprod logo
+
+Main Menu
+
+Home
+About
+Services
+Blog
+
+aria-label = open menu
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+Contact Us
+
+
+
+#---------- HERO ----------#
+
+Digital
+product
+design agency
+
+Create live segments and target the right people for messages based on their behaviors.
+
+Get Started
+
+alt = hero banner
+
+
+
+#---------- SERVICE ----------#
+
+Our included
+service.
+
+Aliquam tristique libero at dui sodales, et placerat orci lobortis. Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem.
+
+alt = service icon
+
+Mobile Apps
+We design professional looking yet simple Logo.
+
+Branding Strategy
+
+Graphics Design
+
+Online Marketing
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+We've been helping
+customers
+globally.
+
+Aliquam tristique libero at dui sodales, et placerat orci lobortis. Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem.
+
+More About Us
+
+
+
+#---------- PROJECT ----------#
+
+Our recent
+projects.
+
+Aliquam tristique libero at dui sodales, et placerat orci lobortis. Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem.
+
+Show More Projects
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+alt = Plastic Credit Card
+
+Plastic Credit Card
+Identity, Mockup
+
+aria-label = product details
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+3D Illustration
+Development, Mobile App
+
+Statistics Mobile App
+Development, Mobile App
+
+Color Blending Effect
+Design, Graphics
+
+3D Animation
+Design, Dimension
+
+
+
+#---------- BLOG ----------#
+
+Our inside
+news.
+
+Check Our All News 
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+alt = Designer's Checklist for Every UX Project.
+
+Grid Layout
+
+Alice Williams
+
+<ion-icon name="calendar-clear-outline" aria-hidden="true"></ion-icon>
+December 20, 2022
+
+Designer's Checklist for Every UX Project.
+
+Read more
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+Jaxson Geldit
+
+Cooper Saris
+
+
+
+#---------- FOOTER ----------#
+
+alt = dprod logo
+
+companyinfo@mail.com
++098 765 4321
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+<ion-icon name="logo-dribbble"></ion-icon>
+
+Links
+Company Details
+Our Newsfeed
+Service Standard
+Team Members
+Pricing Standard
+
+Legal
+Agency Minimal
+Creative Agency
+Creative Layout
+Dark Layout
+FAQ with Filter
+
+Projects
+Projects Common
+Projects Creative
+Projects Standard
+Dark Layout
+eCommerce
+
+
+Copyright 2022 All Rights Reserved by codewithsadee.
+
+
+
+#---------- BACK TO TOP ----------#
